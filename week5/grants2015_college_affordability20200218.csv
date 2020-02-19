@@ -1,0 +1,582 @@
+year,instnm,stabbr,control,hgroup,highdeg,igrnt_low_inc,sgrnt_low_inc
+2015,"University of Alaska Anchorage","AK",1,"Other RU Public",4,3527.888,5126.689
+2015,"University of Alaska Southeast","AK",1,"Other RU Public",4,3371.517,3182.448
+2015,"University of Alaska Fairbanks","AK",1,"HRA Public",4,6791.518,9233.675
+2015,"University of South Alabama","AL",1,"HRA Public",4,6839.169,129.9652
+2015,"Auburn University-Montgomery","AL",1,"Other RU Public",4,2955.426,39.06705
+2015,"Alabama State University","AL",1,"Other RU Public",4,3106.022,906.5012
+2015,"Alabama A & M University","AL",1,"Other RU Public",4,5084.938,13.67144
+2015,"University of Alabama in Huntsville","AL",1,"Non-AAU VHRA Public",4,27176.35,84.00521
+2015,"Auburn University Main Campus","AL",1,"HRA Public",4,33311.48,135.4985
+2015,"University of West Alabama","AL",1,"Other RU Public",4,4430.479,41.81818
+2015,"Troy University","AL",1,"Other RU Public",4,9872.854,0
+2015,"The University of Alabama","AL",1,"HRA Public",4,44633.03,29.88959
+2015,"Jacksonville State University","AL",1,"Other RU Public",4,9756.532,930.5381
+2015,"University of Alabama at Birmingham","AL",1,"Non-AAU VHRA Public",4,13224.76,33.13476
+2015,"University of Montevallo","AL",1,"Other RU Public",4,12979.11,20.68966
+2015,"University of North Alabama","AL",1,"Other RU Public",4,6548.51,7.589286
+2015,"Arizona State University","AZ",1,"Non-AAU VHRA Public",4,28118.65,55.43509
+2015,"Arizona State University at the West Campus","AZ",1,"Other RU Public",4,14996.91,55.13514
+2015,"Northern Arizona University","AZ",1,"HRA Public",4,13701.94,425.4843
+2015,"Arizona State University at the Downtown Phoenix Campus","AZ",1,"Other RU Public",4,21529.15,65.32584
+2015,"Arizona State University at the Polytechnic Campus","AZ",1,"Other RU Public",4,19897.53,77.7907
+2015,"University of Arizona","AZ",1,"AAU Public",4,20377.74,33.64918
+2015,"California State University-Sacramento","CA",1,"Other RU Public",4,4685.395,2996.864
+2015,"California State University-Los Angeles","CA",1,"Other RU Public",4,4943.187,2017.489
+2015,"University of California-San Diego","CA",1,"AAU Public",4,11193.69,13285.12
+2015,"California State University-Fullerton","CA",1,"Other RU Public",4,4399.544,3494.123
+2015,"Sonoma State University","CA",1,"Other RU Public",4,5150.176,3379.956
+2015,"University of California-Los Angeles","CA",1,"AAU Public",4,17725,12386.26
+2015,"California State University-San Bernardino","CA",1,"Other RU Public",4,4711.131,2183.911
+2015,"California State University-Stanislaus","CA",1,"Other RU Public",4,4872.075,3049.058
+2015,"University of California-Davis","CA",1,"AAU Public",4,13850.47,12848.89
+2015,"University of California-Irvine","CA",1,"AAU Public",4,9460.538,13888.93
+2015,"California Polytechnic State University-San Luis Obispo","CA",1,"Other RU Public",4,8756.285,7142.356
+2015,"California State University-East Bay","CA",1,"Other RU Public",4,5030.222,2359.25
+2015,"San Francisco State University","CA",1,"Other RU Public",4,4994.817,2702.257
+2015,"University of California-Riverside","CA",1,"Non-AAU VHRA Public",4,14384.73,12063.89
+2015,"University of California-Merced","CA",1,"Other RU Public",4,12658.97,12683
+2015,"University of California-Santa Cruz","CA",1,"Non-AAU VHRA Public",4,13821.8,12699.7
+2015,"California State University-Channel Islands","CA",1,"Other RU Public",4,4964.678,2439.026
+2015,"California State University-Fresno","CA",1,"Other RU Public",4,4910.897,2938.295
+2015,"California State University-Northridge","CA",1,"Other RU Public",4,5290.532,2321.474
+2015,"San Jose State University","CA",1,"Other RU Public",4,4699.098,3303.796
+2015,"University of California-Santa Barbara","CA",1,"AAU Public",4,15248,13118.22
+2015,"Humboldt State University","CA",1,"Other RU Public",4,5082.632,3184.549
+2015,"University of California-Berkeley","CA",1,"AAU Public",4,22477.96,12904.69
+2015,"California State University-Chico","CA",1,"Other RU Public",4,4829.011,2976.809
+2015,"California Maritime Academy","CA",1,"Other RU Public",4,5986.437,4249.854
+2015,"California State University-Dominguez Hills","CA",1,"Other RU Public",4,5174.605,1806.915
+2015,"California State University-San Marcos","CA",1,"Other RU Public",4,4442.666,2797.326
+2015,"California State University-Bakersfield","CA",1,"Other RU Public",4,5288.367,2306.457
+2015,"California State University-Monterey Bay","CA",1,"Other RU Public",4,5167.29,2511.388
+2015,"California State Polytechnic University-Pomona","CA",1,"Other RU Public",4,4346.484,3452.216
+2015,"San Diego State University","CA",1,"HRA Public",4,5157.989,4462.852
+2015,"California State University-Long Beach","CA",1,"Other RU Public",4,4406.744,3003.628
+2015,"University of Northern Colorado","CO",1,"Other RU Public",4,9581.496,2625.67
+2015,"University of Colorado at Boulder","CO",1,"AAU Public",4,20471.21,1049.43
+2015,"Western State College of Colorado","CO",1,"Other RU Public",4,10985.57,1763.053
+2015,"Adams State College","CO",1,"Other RU Public",4,4701.374,2348.678
+2015,"Colorado School of Mines","CO",1,"HRA Public",4,47637.76,1860.271
+2015,"Colorado State University-Pueblo","CO",1,"Other RU Public",4,5088.261,2003.97
+2015,"Metropolitan State College of Denver","CO",1,"Other RU Public",4,1475.673,1717.447
+2015,"Fort Lewis College","CO",1,"Other RU Public",3,7524.21,13922.61
+2015,"University of Colorado at Colorado Springs","CO",1,"Other RU Public",4,3707.261,1285.559
+2015,"Colorado State University","CO",1,"Non-AAU VHRA Public",4,12516.75,3034.613
+2015,"Mesa State College","CO",1,"Other RU Public",4,2896.818,2046.733
+2015,"University of Colorado Denver","CO",1,"HRA Public",4,2532.09,1138.723
+2015,"Western Connecticut State University","CT",1,"Other RU Public",4,4656.906,2501.799
+2015,"University of Connecticut-Avery Point","CT",1,"Other RU Public",4,5486.102,2542.614
+2015,"University of Connecticut-Tri-Campus","CT",1,"Other RU Public",4,4755.822,2563.117
+2015,"Southern Connecticut State University","CT",1,"Other RU Public",4,3397.544,2289.493
+2015,"Central Connecticut State University","CT",1,"Other RU Public",4,4533.2,3101.495
+2015,"Eastern Connecticut State University","CT",1,"Other RU Public",4,7671.19,2045.67
+2015,"University of Connecticut","CT",1,"Non-AAU VHRA Public",4,31234.93,3264.103
+2015,"University of Connecticut-Stamford","CT",1,"Other RU Public",4,3252.42,2395.812
+2015,"University of Delaware","DE",1,"Non-AAU VHRA Public",4,38675.71,3772.984
+2015,"Delaware State University","DE",1,"Other RU Public",4,5715.215,3272.654
+2015,"Florida Atlantic University","FL",1,"HRA Public",4,3692.39,2018.899
+2015,"The University of West Florida","FL",1,"Other RU Public",4,5953.17,3081.695
+2015,"Chipola College","FL",1,"Other RU Public",3,956.2209,1964.262
+2015,"University of South Florida","FL",1,"Non-AAU VHRA Public",4,8453.83,4541.376
+2015,"New College of Florida","FL",1,"Other RU Public",3,18496.92,9366.667
+2015,"Northwest Florida State College","FL",1,"Other RU Public",3,1663.467,1075.005
+2015,"St Petersburg College","FL",1,"Other RU Public",3,837.5392,1205.328
+2015,"University of Central Florida","FL",1,"Non-AAU VHRA Public",4,3420.889,5207.619
+2015,"Florida Community College at Jacksonville","FL",1,"Other RU Public",3,787.6277,1199.566
+2015,"University of North Florida","FL",1,"Other RU Public",4,6697.513,4170.522
+2015,"Edison State College","FL",1,"Other RU Public",3,1289.53,297.5071
+2015,"Florida International University","FL",1,"HRA Public",4,3954.676,2378.663
+2015,"Miami Dade College","FL",1,"Other RU Public",3,571.3444,204.1531
+2015,"Florida State University","FL",1,"Non-AAU VHRA Public",4,4359.372,6989.7
+2015,"Florida Agricultural and Mechanical University","FL",1,"Other RU Public",4,4005.766,1881.015
+2015,"University of Florida","FL",1,"AAU Public",4,4973.937,10325.25
+2015,"Florida Gulf Coast University","FL",1,"Other RU Public",4,1581.597,1257.34
+2015,"Indian River State College","FL",1,"Other RU Public",3,528.39,444.3773
+2015,"Daytona State College","FL",1,"Other RU Public",3,484.3495,504.8429
+2015,"Abraham Baldwin Agricultural College","GA",1,"Other RU Public",3,312.0229,2833.609
+2015,"Armstrong Atlantic State University","GA",1,"Other RU Public",4,765.7673,5250.612
+2015,"Georgia Gwinnett College","GA",1,"Other RU Public",3,67.57883,1273.483
+2015,"Savannah State University","GA",1,"Other RU Public",4,586.4244,1310.656
+2015,"Dalton State College","GA",1,"Other RU Public",3,419.2291,2390.435
+2015,"Valdosta State University","GA",1,"Other RU Public",4,475.3852,5462.819
+2015,"Georgia State University","GA",1,"Non-AAU VHRA Public",4,802.1259,8475.008
+2015,"Albany State University","GA",1,"Other RU Public",4,552.6647,1965.116
+2015,"Clayton  State University","GA",1,"Other RU Public",4,417.4887,2441.514
+2015,"University of West Georgia","GA",1,"Other RU Public",4,404.9424,5024.955
+2015,"University of Georgia","GA",1,"Non-AAU VHRA Public",4,4994.085,33224.98
+2015,"Fort Valley State University","GA",1,"Other RU Public",4,905.7238,1659.083
+2015,"Gordon College","GA",1,"Other RU Public",3,103.7524,1457.06
+2015,"Georgia Southern University","GA",1,"Other RU Public",4,1162.946,8123.036
+2015,"Columbus State University","GA",1,"Other RU Public",4,677.6356,4819.356
+2015,"Georgia Southwestern State University","GA",1,"Other RU Public",4,1454.344,5534.193
+2015,"Georgia Institute of Technology-Main Campus","GA",1,"AAU Public",4,10493.57,40112.09
+2015,"Georgia College & State University","GA",1,"Other RU Public",4,1412.498,32254.32
+2015,"University of Hawaii-West Oahu","HI",1,"Other RU Public",3,2772.492,1220.556
+2015,"Maui Community College","HI",1,"Other RU Public",3,604.5814,311.2
+2015,"University of Hawaii at Hilo","HI",1,"Other RU Public",4,3274.568,1072.667
+2015,"University of Hawaii at Manoa","HI",1,"Non-AAU VHRA Public",4,10039.39,1572.046
+2015,"Iowa State University","IA",1,"AAU Public",4,19647.21,393.319
+2015,"University of Northern Iowa","IA",1,"Other RU Public",4,5443.438,1441.436
+2015,"University of Iowa","IA",1,"AAU Public",4,26787.63,1109.889
+2015,"Lewis-Clark State College","ID",1,"Other RU Public",3,3766.167,1040.02
+2015,"Idaho State University","ID",1,"HRA Public",4,5036.957,866.4926
+2015,"University of Idaho","ID",1,"HRA Public",4,9254.644,1527.6
+2015,"Boise State University","ID",1,"Other RU Public",4,10693.87,942.3711
+2015,"University of Illinois at Chicago","IL",1,"Non-AAU VHRA Public",4,7509.522,4463.646
+2015,"Southern Illinois University Carbondale","IL",1,"HRA Public",4,8827.487,3634.278
+2015,"Eastern Illinois University","IL",1,"Other RU Public",4,7043.512,3524.101
+2015,"Northern Illinois University","IL",1,"HRA Public",4,8659.133,3523.834
+2015,"Illinois State University","IL",1,"Other RU Public",4,7636.242,5690.382
+2015,"University of Illinois at Urbana-Champaign","IL",1,"AAU Public",4,18702.89,6285.19
+2015,"University of Illinois at Springfield","IL",1,"Other RU Public",4,15211.09,5070.611
+2015,"Northeastern Illinois University","IL",1,"Other RU Public",4,689.4425,2699.201
+2015,"Western Illinois University","IL",1,"Other RU Public",4,4972.941,3837.919
+2015,"Governors State University","IL",1,"Other RU Public",4,352.6172,2465.194
+2015,"Southern Illinois University Edwardsville","IL",1,"Other RU Public",4,5624.374,2581.316
+2015,"Chicago State University","IL",1,"Other RU Public",4,3423.614,2071.154
+2015,"Vincennes University","IN",1,"Other RU Public",3,667.2262,2693.187
+2015,"University of Southern Indiana","IN",1,"Other RU Public",4,3120.701,3824.437
+2015,"Purdue University-Calumet Campus","IN",1,"Other RU Public",4,2345.725,3034.164
+2015,"Indiana University-South Bend","IN",1,"Other RU Public",4,1271.757,4032.975
+2015,"Indiana University-Purdue University-Fort Wayne","IN",1,"Other RU Public",4,2939.2,4690.805
+2015,"Indiana University-Bloomington","IN",1,"AAU Public",4,20142.66,6433.56
+2015,"Indiana University-Southeast","IN",1,"Other RU Public",4,915.1253,3251.927
+2015,"Purdue University-North Central Campus","IN",1,"Other RU Public",4,594.7017,3760.248
+2015,"Indiana University-Northwest","IN",1,"Other RU Public",4,1224.521,3847.549
+2015,"Indiana State University","IN",1,"Other RU Public",4,3498.175,5236.612
+2015,"Purdue University-Main Campus","IN",1,"AAU Public",4,14078.26,5030.767
+2015,"Indiana University-Kokomo","IN",1,"Other RU Public",4,1083.06,5137.991
+2015,"Indiana University-Purdue University-Indianapolis","IN",1,"HRA Public",4,4668.492,5596.058
+2015,"Ball State University","IN",1,"HRA Public",4,9974.825,5928.89
+2015,"Indiana University-East","IN",1,"Other RU Public",4,2267.598,4457.196
+2015,"Kansas State University","KS",1,"HRA Public",4,13918.28,1049.212
+2015,"Emporia State University","KS",1,"Other RU Public",4,3910.242,558.4771
+2015,"University of Kansas","KS",1,"AAU Public",4,17543,422.4984
+2015,"Fort Hays State University","KS",1,"Other RU Public",4,4294.295,356.0504
+2015,"Washburn University","KS",1,"Other RU Public",4,6655.035,530.1265
+2015,"Pittsburg State University","KS",1,"Other RU Public",4,3122.501,448.6192
+2015,"Haskell Indian Nations University","KS",1,"Other RU Public",3,75.66666,1462.242
+2015,"Wichita State University","KS",1,"HRA Public",4,5202.06,638.0786
+2015,"Morehead State University","KY",1,"Other RU Public",4,5965.355,3713.096
+2015,"Kentucky State University","KY",1,"Other RU Public",4,5654.954,1020.734
+2015,"Northern Kentucky University","KY",1,"Other RU Public",4,8131.652,3328.506
+2015,"Eastern Kentucky University","KY",1,"Other RU Public",4,4552.105,3626.507
+2015,"Murray State University","KY",1,"Other RU Public",4,14915.65,3740.087
+2015,"Western Kentucky University","KY",1,"Other RU Public",4,7465.752,4374.064
+2015,"University of Kentucky","KY",1,"Non-AAU VHRA Public",4,21556.4,5483.507
+2015,"University of Louisville","KY",1,"Non-AAU VHRA Public",4,16514.86,6159.32
+2015,"Louisiana Tech University","LA",1,"HRA Public",4,15249.22,14073.14
+2015,"Southeastern Louisiana University","LA",1,"Other RU Public",4,2571.887,6523.515
+2015,"McNeese State University","LA",1,"Other RU Public",4,4510.626,7486.021
+2015,"Grambling State University","LA",1,"Other RU Public",4,1918.078,895.6381
+2015,"Louisiana State University-Shreveport","LA",1,"Other RU Public",4,5440.696,6801.621
+2015,"Southern University and A & M College","LA",1,"Other RU Public",4,1488.799,1271.01
+2015,"Nicholls State University","LA",1,"Other RU Public",4,3118.078,8136.389
+2015,"University of New Orleans","LA",1,"HRA Public",4,6514.616,7602.596
+2015,"Louisiana State University and Agricultural & Mechanical College","LA",1,"Non-AAU VHRA Public",4,13243.28,22854.09
+2015,"Northwestern State University of Louisiana","LA",1,"Other RU Public",4,6626.708,5625.826
+2015,"University of Louisiana at Lafayette","LA",1,"HRA Public",4,3865.953,9873.549
+2015,"Southern University at New Orleans","LA",1,"Other RU Public",4,138.7477,158.8378
+2015,"Louisiana State University at Alexandria","LA",1,"Other RU Public",4,1611.574,4534.311
+2015,"University of Louisiana Monroe","LA",1,"Other RU Public",4,8123.474,8991.016
+2015,"Massachusetts College of Art and Design","MA",1,"Other RU Public",4,18446.85,1200.45
+2015,"Salem State College","MA",1,"Other RU Public",4,3108.347,2383.297
+2015,"University of Massachusetts-Lowell","MA",1,"HRA Public",4,16044.65,4865.528
+2015,"University of Massachusetts-Boston","MA",1,"HRA Public",4,5565.381,3742.18
+2015,"Worcester State College","MA",1,"Other RU Public",4,2546.145,3678.352
+2015,"Westfield State College","MA",1,"Other RU Public",4,1834.655,3976.715
+2015,"Framingham State College","MA",1,"Other RU Public",4,2795.394,3075.866
+2015,"Bridgewater State College","MA",1,"Other RU Public",4,2223.229,3551.834
+2015,"Massachusetts College of Liberal Arts","MA",1,"Other RU Public",4,3244.202,1416.036
+2015,"Fitchburg State College","MA",1,"Other RU Public",4,2092.441,3457.967
+2015,"Massachusetts Maritime Academy","MA",1,"Other RU Public",4,24819.47,5104.456
+2015,"University of Massachusetts Amherst","MA",1,"Non-AAU VHRA Public",4,21943.31,6217.106
+2015,"University of Massachusetts-Dartmouth","MA",1,"Other RU Public",4,7921.757,3125.663
+2015,"Coppin State University","MD",1,"Other RU Public",4,2099.218,982.2179
+2015,"Morgan State University","MD",1,"Other RU Public",4,4014.063,1652.779
+2015,"University of Baltimore","MD",1,"Other RU Public",4,3666.2,2474.481
+2015,"Bowie State University","MD",1,"Other RU Public",4,2972.263,2633.269
+2015,"St Mary's College of Maryland","MD",1,"Other RU Public",4,23990.26,5683.783
+2015,"University of Maryland-Baltimore County","MD",1,"HRA Public",4,16080.61,3444.061
+2015,"Salisbury University","MD",1,"Other RU Public",4,9599.13,3489.846
+2015,"University of Maryland-University College","MD",1,"Other RU Public",4,224.0354,610.062
+2015,"University of Maryland-College Park","MD",1,"AAU Public",4,30759.03,3966.449
+2015,"Towson University","MD",1,"Other RU Public",4,8821.599,2522.802
+2015,"University of Maryland Eastern Shore","MD",1,"Other RU Public",4,3199.885,2737.14
+2015,"Frostburg State University","MD",1,"Other RU Public",4,3681.572,3212.227
+2015,"University of Michigan-Flint","MI",1,"Other RU Public",4,4155.687,155.8129
+2015,"Saginaw Valley State University","MI",1,"Other RU Public",4,6918.343,297.2747
+2015,"Ferris State University","MI",1,"Other RU Public",4,7237.026,4466.754
+2015,"Eastern Michigan University","MI",1,"Other RU Public",4,9938.729,140.2805
+2015,"Grand Valley State University","MI",1,"Other RU Public",4,9362.705,384.8698
+2015,"Lake Superior State University","MI",1,"Other RU Public",4,9895.53,5418.72
+2015,"University of Michigan-Dearborn","MI",1,"Other RU Public",4,7795.312,203.8658
+2015,"Northern Michigan University","MI",1,"Other RU Public",4,7362.193,2806.651
+2015,"Western Michigan University","MI",1,"HRA Public",4,8274.964,238.7297
+2015,"Oakland University","MI",1,"Other RU Public",4,14083.99,169.7074
+2015,"Michigan State University","MI",1,"AAU Public",4,19962.96,494.2778
+2015,"Wayne State University","MI",1,"Non-AAU VHRA Public",4,9803.86,136.5067
+2015,"Michigan Technological University","MI",1,"HRA Public",4,33566.45,4079.515
+2015,"University of Michigan-Ann Arbor","MI",1,"AAU Public",4,45437.91,563.163
+2015,"Central Michigan University","MI",1,"Other RU Public",4,14750.23,286.177
+2015,"Metropolitan State University","MN",1,"Other RU Public",4,0,1102.2
+2015,"Southwest Minnesota State University","MN",1,"Other RU Public",4,3773.772,2561.114
+2015,"University of Minnesota-Crookston","MN",1,"Other RU Public",3,11932.9,3938.46
+2015,"Minnesota State University-Moorhead","MN",1,"Other RU Public",4,2774.056,2273.112
+2015,"University of Minnesota-Morris","MN",1,"Other RU Public",3,10537.92,4349.054
+2015,"Minnesota State University-Mankato","MN",1,"Other RU Public",4,1610.062,2425.971
+2015,"University of Minnesota-Twin Cities","MN",1,"AAU Public",4,13047.7,5639.397
+2015,"University of Minnesota-Duluth","MN",1,"Other RU Public",4,7867.058,6470.375
+2015,"Winona State University","MN",1,"Other RU Public",4,3277.302,2588.952
+2015,"Saint Cloud State University","MN",1,"Other RU Public",4,2499.119,2041.057
+2015,"Bemidji State University","MN",1,"Other RU Public",4,2877.054,2655.101
+2015,"Missouri Western State University","MO",1,"Other RU Public",4,4143.469,1647.186
+2015,"University of Central Missouri","MO",1,"Other RU Public",4,4309.664,1615.221
+2015,"Truman State University","MO",1,"Other RU Public",4,23846.47,6906.467
+2015,"Missouri University of Science and Technology","MO",1,"HRA Public",4,25243.59,5506.124
+2015,"Southeast Missouri State University","MO",1,"Other RU Public",4,9175.048,1564.823
+2015,"Northwest Missouri State University","MO",1,"Other RU Public",4,14355.08,1628.679
+2015,"University of Missouri-St Louis","MO",1,"HRA Public",4,17855.47,1888.78
+2015,"University of Missouri-Kansas City","MO",1,"HRA Public",4,9844.438,1307.416
+2015,"University of Missouri-Columbia","MO",1,"AAU Public",4,20462.81,2687.698
+2015,"Lincoln University","MO",1,"Other RU Public",4,2800.192,717.3913
+2015,"Missouri Southern State University","MO",1,"Other RU Public",4,2525.884,884.806
+2015,"Harris-Stowe State University","MO",1,"Other RU Public",3,951.7604,592.7557
+2015,"Missouri State University","MO",1,"Other RU Public",4,5733.121,2075.629
+2015,"University of Southern Mississippi","MS",1,"HRA Public",4,9884.479,1537.271
+2015,"Mississippi University for Women","MS",1,"Other RU Public",4,7431.033,722.5817
+2015,"Alcorn State University","MS",1,"Other RU Public",4,4813.191,188.0656
+2015,"Delta State University","MS",1,"Other RU Public",4,3996.6,1086.963
+2015,"Jackson State University","MS",1,"HRA Public",4,7678.899,321.7562
+2015,"University of Mississippi Main Campus","MS",1,"HRA Public",4,19396.69,2400.723
+2015,"Mississippi State University","MS",1,"Non-AAU VHRA Public",4,21380.56,2485.78
+2015,"Mississippi Valley State University","MS",1,"Other RU Public",4,5361.629,5450.78
+2015,"Montana State University","MT",1,"Non-AAU VHRA Public",4,13029.56,2249.895
+2015,"Montana Tech of the University of Montana","MT",1,"Other RU Public",4,10837.36,853.9863
+2015,"Montana State University-Northern","MT",1,"Other RU Public",4,3316.779,1469.779
+2015,"The University of Montana-Western","MT",1,"Other RU Public",3,8526.189,1065.937
+2015,"The University of Montana","MT",1,"HRA Public",4,5183.121,300.3225
+2015,"Montana State University-Billings","MT",1,"Other RU Public",4,3377.965,998.7795
+2015,"North Carolina State University at Raleigh","NC",1,"Non-AAU VHRA Public",4,17973,4038.01
+2015,"University of North Carolina at Chapel Hill","NC",1,"AAU Public",4,28448.29,3076.76
+2015,"University of North Carolina School of the Arts","NC",1,"Other RU Public",4,13191.81,2245.746
+2015,"North Carolina Central University","NC",1,"Other RU Public",4,3242.06,2434.128
+2015,"North Carolina A & T State University","NC",1,"Other RU Public",4,2594.418,2450.616
+2015,"University of North Carolina at Asheville","NC",1,"Other RU Public",4,7857.208,2955.348
+2015,"Western Carolina University","NC",1,"Other RU Public",4,3278.134,2943.29
+2015,"University of North Carolina-Wilmington","NC",1,"Other RU Public",4,5960.975,2428.592
+2015,"Fayetteville State University","NC",1,"Other RU Public",4,1765.896,2690.262
+2015,"University of North Carolina at Greensboro","NC",1,"HRA Public",4,3521.863,3319.682
+2015,"Elizabeth City State University","NC",1,"Other RU Public",4,2297.356,5191.306
+2015,"University of North Carolina at Pembroke","NC",1,"Other RU Public",4,1268.205,2474.117
+2015,"Appalachian State University","NC",1,"Other RU Public",4,5113.793,3245.463
+2015,"Winston-Salem State University","NC",1,"Other RU Public",4,2182.869,2432.262
+2015,"University of North Carolina at Charlotte","NC",1,"Other RU Public",4,5709.649,2951.554
+2015,"East Carolina University","NC",1,"Other RU Public",4,4937.025,2453.617
+2015,"Mayville State University","ND",1,"Other RU Public",3,2704.84,1428.427
+2015,"University of North Dakota","ND",1,"HRA Public",4,7159.236,2648.167
+2015,"Minot State University","ND",1,"Other RU Public",4,11066.83,3515.068
+2015,"Valley City State University","ND",1,"Other RU Public",4,8416.563,2635.255
+2015,"Sitting Bull College","ND",1,"Other RU Public",3,1978.105,4792.29
+2015,"North Dakota State University-Main Campus","ND",1,"Non-AAU VHRA Public",4,6781.72,2509.805
+2015,"Dickinson State University","ND",1,"Other RU Public",3,5016.968,1234.857
+2015,"Bismarck State College","ND",1,"Other RU Public",3,1900.898,2728.364
+2015,"Wayne State College","NE",1,"Other RU Public",4,1546.255,3320.755
+2015,"Chadron State College","NE",1,"Other RU Public",4,5673.974,433.0158
+2015,"Peru State College","NE",1,"Other RU Public",4,4181.621,374.7984
+2015,"University of Nebraska at Kearney","NE",1,"Other RU Public",4,7269.749,1070.992
+2015,"University of Nebraska-Lincoln","NE",1,"Non-AAU VHRA Public",4,15516.24,972.4325
+2015,"University of Nebraska at Omaha","NE",1,"Other RU Public",4,5606.534,863.3521
+2015,"Plymouth State University","NH",1,"Other RU Public",4,11078.38,268.4091
+2015,"Keene State College","NH",1,"Other RU Public",4,15522.57,257.4193
+2015,"University of New Hampshire at Manchester","NH",1,"Other RU Public",3,4461.965,0
+2015,"University of New Hampshire-Main Campus","NH",1,"HRA Public",4,31712.32,68.90327
+2015,"Granite State College","NH",1,"Other RU Public",4,15,420.1071
+2015,"William Paterson University of New Jersey","NJ",1,"Other RU Public",4,2503.71,3563.044
+2015,"The Richard Stockton College of New Jersey","NJ",1,"Other RU Public",4,11478.63,4993.927
+2015,"Ramapo College of New Jersey","NJ",1,"Other RU Public",4,14729.8,5608.902
+2015,"New Jersey Institute of Technology","NJ",1,"HRA Public",4,22131.3,7789.592
+2015,"New Jersey City University","NJ",1,"Other RU Public",4,1270.048,4606.037
+2015,"Montclair State University","NJ",1,"Other RU Public",4,863.7737,4805.097
+2015,"Rutgers University-Newark","NJ",1,"HRA Public",4,3969.011,7146.758
+2015,"The College of New Jersey","NJ",1,"Other RU Public",4,11648.1,6208.521
+2015,"Rowan University","NJ",1,"Other RU Public",4,8891.889,5347.916
+2015,"Kean University","NJ",1,"Other RU Public",4,849.494,3690.98
+2015,"Rutgers University-Camden","NJ",1,"Other RU Public",4,7198.333,6875.891
+2015,"Rutgers University-New Brunswick","NJ",1,"AAU Public",4,10849.94,6880.271
+2015,"New Mexico Highlands University","NM",1,"Other RU Public",4,1796.281,8279.025
+2015,"New Mexico State University-Main Campus","NM",1,"HRA Public",4,7465.393,6785.314
+2015,"Eastern New Mexico University-Main Campus","NM",1,"Other RU Public",4,716.2821,3425.048
+2015,"Northern New Mexico College","NM",1,"Other RU Public",4,325.4902,1220.196
+2015,"Institute of American Indian and Alaska Native Culture","NM",1,"Other RU Public",3,3578.846,0
+2015,"New Mexico Institute of Mining and Technology","NM",1,"Other RU Public",4,7707.482,8612.928
+2015,"Western New Mexico University","NM",1,"Other RU Public",4,3736.479,1068.379
+2015,"University of New Mexico-Main Campus","NM",1,"Non-AAU VHRA Public",4,4295.271,5485.815
+2015,"Nevada State College","NV",1,"Other RU Public",3,1802.94,1005.862
+2015,"University of Nevada-Reno","NV",1,"HRA Public",4,3837.856,7339.712
+2015,"University of Nevada-Las Vegas","NV",1,"HRA Public",4,2481.963,2967.762
+2015,"Western Nevada College","NV",1,"Other RU Public",3,872.175,511.9583
+2015,"College of Southern Nevada","NV",1,"Other RU Public",3,329.2012,424.3146
+2015,"Great Basin College","NV",1,"Other RU Public",4,1161.923,687.2115
+2015,"CUNY Bernard M Baruch College","NY",1,"Other RU Public",4,1156.044,5313.185
+2015,"SUNY College at Old Westbury","NY",1,"Other RU Public",4,1532.962,3973.779
+2015,"CUNY John Jay College Criminal Justice","NY",1,"Other RU Public",4,8.84412,4800.636
+2015,"SUNY College at Oswego","NY",1,"Other RU Public",4,4867.17,4015.498
+2015,"SUNY College at Oneonta","NY",1,"Other RU Public",4,5012.175,4689.486
+2015,"SUNY Institute of Technology at Utica-Rome","NY",1,"Other RU Public",4,5101.459,4405.363
+2015,"SUNY Empire State College","NY",1,"Other RU Public",4,888.6055,2686.986
+2015,"Fashion Institute of Technology","NY",1,"Other RU Public",4,285.5188,2953.199
+2015,"SUNY College at Brockport","NY",1,"Other RU Public",4,3463.98,3681.287
+2015,"Stony Brook University","NY",1,"AAU Public",4,7573.249,5384.245
+2015,"CUNY Medgar Evers College","NY",1,"Other RU Public",3,0,3377.417
+2015,"CUNY Lehman College","NY",1,"Other RU Public",4,230.6165,6495.25
+2015,"SUNY at Binghamton","NY",1,"HRA Public",4,4766.411,5931.315
+2015,"SUNY at Albany","NY",1,"Non-AAU VHRA Public",4,5365.924,4193.08
+2015,"SUNY College of Technology at Canton","NY",1,"Other RU Public",3,1647.164,3845.737
+2015,"CUNY Queens College","NY",1,"Other RU Public",4,710.3557,6946.937
+2015,"CUNY New York City College of Technology","NY",1,"Other RU Public",3,0,3783.164
+2015,"University at Buffalo","NY",1,"AAU Public",4,6208.214,4918.043
+2015,"SUNY at Fredonia","NY",1,"Other RU Public",4,3432.758,3567.711
+2015,"Farmingdale State College","NY",1,"Other RU Public",3,1210.666,4810.625
+2015,"CUNY College of Staten Island","NY",1,"Other RU Public",4,149.8857,5544.503
+2015,"SUNY College of Technology at Delhi","NY",1,"Other RU Public",3,1581.353,3823.796
+2015,"SUNY Maritime College","NY",1,"Other RU Public",4,5697,5331.697
+2015,"SUNY College of Technology at Alfred","NY",1,"Other RU Public",3,3858.032,3384.19
+2015,"SUNY College at Potsdam","NY",1,"Other RU Public",4,2845.299,4417.795
+2015,"SUNY College at Cortland","NY",1,"Other RU Public",4,2078.456,3606.871
+2015,"CUNY City College","NY",1,"Other RU Public",4,410.3494,5237.08
+2015,"SUNY College of Agriculture and Technology at Cobleskill","NY",1,"Other RU Public",3,1812.245,4123.793
+2015,"SUNY at Geneseo","NY",1,"Other RU Public",4,3194.117,5407.295
+2015,"SUNY College at Plattsburgh","NY",1,"Other RU Public",4,6013.729,3981.329
+2015,"SUNY College at Buffalo","NY",1,"Other RU Public",4,1423.506,3662.402
+2015,"SUNY College of Environmental Science and Forestry","NY",1,"Other RU Public",4,10239.03,3912.943
+2015,"CUNY Brooklyn College","NY",1,"Other RU Public",4,641.1321,6067.538
+2015,"Morrisville State College","NY",1,"Other RU Public",3,1800.646,3619.671
+2015,"CUNY Hunter College","NY",1,"Other RU Public",4,1060.693,6203.297
+2015,"CUNY York College","NY",1,"Other RU Public",4,1.371742,5588.068
+2015,"SUNY at Purchase College","NY",1,"Other RU Public",4,3694.749,4324.333
+2015,"SUNY College at New Paltz","NY",1,"Other RU Public",4,2637.222,5068.542
+2015,"Shawnee State University","OH",1,"Other RU Public",4,2318.634,808.3475
+2015,"Ohio University-Eastern Campus","OH",1,"Other RU Public",2,2331,14.16216
+2015,"University of Cincinnati-Raymond Walters College","OH",1,"Other RU Public",4,1430.801,56.69775
+2015,"University of Cincinnati-Clermont College","OH",1,"Other RU Public",4,568.5432,60.10072
+2015,"Wright State University-Main Campus","OH",1,"HRA Public",4,6068.864,990.997
+2015,"University of Toledo","OH",1,"HRA Public",4,14750.87,698.4631
+2015,"Ohio University-Southern Campus","OH",1,"Other RU Public",2,1620.487,3.493333
+2015,"Cleveland State University","OH",1,"HRA Public",4,4498.389,820.4677
+2015,"Ohio University-Zanesville Campus","OH",1,"Other RU Public",2,2963.716,25.97297
+2015,"Kent State University Kent Campus","OH",1,"HRA Public",4,11943.81,819.8358
+2015,"Miami University-Middletown","OH",1,"Other RU Public",4,271.7489,2.969697
+2015,"Ohio State University-Lima Campus","OH",1,"Other RU Public",3,1862.753,411.241
+2015,"Bowling Green State University-Main Campus","OH",1,"HRA Public",4,10769.65,861.8464
+2015,"Ohio University-Chillicothe Campus","OH",1,"Other RU Public",2,945.6334,20.38095
+2015,"University of Cincinnati-Main Campus","OH",1,"Non-AAU VHRA Public",4,14163.67,848.5382
+2015,"Kent State University Salem Campus","OH",1,"Other RU Public",3,626.1887,46.07547
+2015,"Bowling Green State University-Firelands","OH",1,"Other RU Public",2,347.4445,42.9418
+2015,"Edison State Community College","OH",1,"Other RU Public",2,816.7,0
+2015,"Central State University","OH",1,"Other RU Public",4,2152.232,90.0805
+2015,"University of Akron Main Campus","OH",1,"HRA Public",4,7874.844,797.5328
+2015,"Ohio State University-Newark Campus","OH",1,"Other RU Public",3,1364.702,121.8166
+2015,"Miami University-Oxford","OH",1,"HRA Public",4,45014.79,513.034
+2015,"Ohio State University-Main Campus","OH",1,"AAU Public",4,37936.48,846.6194
+2015,"Ohio University-Main Campus","OH",1,"HRA Public",4,11727.04,754.553
+2015,"Ohio State University-Marion Campus","OH",1,"Other RU Public",3,3666.671,120.1437
+2015,"Miami University-Hamilton","OH",1,"Other RU Public",4,327.9037,3.427762
+2015,"Ohio University-Lancaster Campus","OH",1,"Other RU Public",2,1877.267,21.62376
+2015,"Ohio State University-Mansfield Campus","OH",1,"Other RU Public",3,2416.723,143.3455
+2015,"Youngstown State University","OH",1,"Other RU Public",4,5551.426,961.4341
+2015,"Oklahoma State University-Main Campus","OK",1,"HRA Public",4,15998.01,3312.766
+2015,"Oklahoma Panhandle State University","OK",1,"Other RU Public",3,1904.752,663.3643
+2015,"Langston University","OK",1,"Other RU Public",4,238.6726,545.4602
+2015,"Southwestern Oklahoma State University","OK",1,"Other RU Public",4,6269.939,3317.539
+2015,"University of Central Oklahoma","OK",1,"Other RU Public",4,2079.915,2916.882
+2015,"Cameron University","OK",1,"Other RU Public",4,2945.324,1288.58
+2015,"Northwestern Oklahoma State University","OK",1,"Other RU Public",4,6216.906,1996.125
+2015,"Rogers State University","OK",1,"Other RU Public",3,1666.28,2466.736
+2015,"Oklahoma State University Institute of Technology-Okmulgee","OK",1,"Other RU Public",3,2921.706,1300.38
+2015,"Northeastern State University","OK",1,"Other RU Public",4,3971.319,2206.589
+2015,"Southeastern Oklahoma State University","OK",1,"Other RU Public",4,6826.542,2792.447
+2015,"University of Science and Arts of Oklahoma","OK",1,"Other RU Public",3,8982.589,3918.778
+2015,"University of Oklahoma Norman Campus","OK",1,"Non-AAU VHRA Public",4,27128.8,6038.116
+2015,"East Central University","OK",1,"Other RU Public",4,5797.897,2682.751
+2015,"Oklahoma State University-Oklahoma City","OK",1,"Other RU Public",3,539.3485,933.8339
+2015,"Eastern Oregon University","OR",1,"Other RU Public",4,2553.684,1615.836
+2015,"University of Oregon","OR",1,"AAU Public",4,13749.95,1299.629
+2015,"Oregon State University","OR",1,"Non-AAU VHRA Public",4,10401.85,1842.161
+2015,"Southern Oregon University","OR",1,"Other RU Public",4,3427.897,961.4421
+2015,"Oregon Institute of Technology","OR",1,"Other RU Public",4,4517.885,1607.708
+2015,"Portland State University","OR",1,"HRA Public",4,5675.9,1217.275
+2015,"Western Oregon University","OR",1,"Other RU Public",4,2868.071,1724.06
+2015,"Millersville University of Pennsylvania","PA",1,"Other RU Public",4,2425.303,3168.945
+2015,"Bloomsburg University of Pennsylvania","PA",1,"Other RU Public",4,653.5764,3126.808
+2015,"Pennsylvania State University-Penn State Dubois","PA",1,"Other RU Public",3,4556.685,3748.794
+2015,"East Stroudsburg University of Pennsylvania","PA",1,"Other RU Public",4,1043.043,2585.25
+2015,"Pennsylvania State University-Penn State Berks","PA",1,"Other RU Public",4,3516.994,3197.549
+2015,"Shippensburg University of Pennsylvania","PA",1,"Other RU Public",4,713.2819,3455.105
+2015,"Pennsylvania State University-Penn State Shenango","PA",1,"Other RU Public",3,7044.881,2496.548
+2015,"Lock Haven University","PA",1,"Other RU Public",4,735.8123,2894.143
+2015,"Pennsylvania College of Technology","PA",1,"Other RU Public",3,2423.517,3636.228
+2015,"Pennsylvania State University-Penn State Mont Alto","PA",1,"Other RU Public",3,6117.55,3196.358
+2015,"Pennsylvania State University-Penn State Fayette- Eberly Campus","PA",1,"Other RU Public",3,5447.405,3145.06
+2015,"Pennsylvania State University-Penn State Beaver","PA",1,"Other RU Public",3,5967.82,3399.978
+2015,"Pennsylvania State University-Penn State Abington","PA",1,"Other RU Public",4,3180.699,3363.469
+2015,"Pennsylvania State University-Main Campus","PA",1,"AAU Public",4,17785.69,3249.517
+2015,"Temple University","PA",1,"HRA Public",4,21011.26,3255.693
+2015,"Pennsylvania State University-Penn State York","PA",1,"Other RU Public",4,5320.923,2855.942
+2015,"Pennsylvania State University-Brandywine","PA",1,"Other RU Public",3,4905.798,3094.122
+2015,"California University of Pennsylvania","PA",1,"Other RU Public",4,2534.758,3029.084
+2015,"Pennsylvania State University-Penn State New Kensington","PA",1,"Other RU Public",3,6848.861,3876.138
+2015,"University of Pittsburgh-Bradford","PA",1,"Other RU Public",3,11294.53,3779.862
+2015,"Pennsylvania State University-Penn State Lehigh Valley","PA",1,"Other RU Public",4,3665.764,3031.011
+2015,"Pennsylvania State University-Penn State Schuylkill","PA",1,"Other RU Public",3,6808.438,2712.438
+2015,"Pennsylvania State University-Penn State Erie-Behrend College","PA",1,"Other RU Public",4,5519.882,3510.385
+2015,"Pennsylvania State University-Penn State Hazleton","PA",1,"Other RU Public",3,5119.569,2769.874
+2015,"Pennsylvania State University-Penn State Harrisburg","PA",1,"Other RU Public",4,7275.309,2855.032
+2015,"Pennsylvania State University-Penn State Wilkes-Barre","PA",1,"Other RU Public",3,5196.4,3186.36
+2015,"University of Pittsburgh-Greensburg","PA",1,"Other RU Public",3,7761.57,4229.696
+2015,"Edinboro University of Pennsylvania","PA",1,"Other RU Public",4,1777.411,2708.221
+2015,"Pennsylvania State University-Penn State Worthington Scranton","PA",1,"Other RU Public",3,3856.562,3190.298
+2015,"Lincoln University of Pennsylvania","PA",1,"Other RU Public",4,5240.865,1120.29
+2015,"Clarion University of Pennsylvania","PA",1,"Other RU Public",4,1219.054,3266.894
+2015,"Pennsylvania State University-Penn State Greater Allegheny","PA",1,"Other RU Public",3,6030.234,3354.585
+2015,"Cheyney University of Pennsylvania","PA",1,"Other RU Public",4,6529.617,3073.874
+2015,"Slippery Rock University of Pennsylvania","PA",1,"Other RU Public",4,1574.152,3332.323
+2015,"Pennsylvania State University-Penn State Altoona","PA",1,"Other RU Public",3,6492.167,3122.155
+2015,"West Chester University of Pennsylvania","PA",1,"Other RU Public",4,1848.928,3113.606
+2015,"University of Pittsburgh-Johnstown","PA",1,"Other RU Public",3,9111.624,4505.42
+2015,"Mansfield University of Pennsylvania","PA",1,"Other RU Public",4,1665.891,2685.93
+2015,"University of Pittsburgh-Pittsburgh Campus","PA",1,"AAU Public",4,31998.3,3616.155
+2015,"Kutztown University of Pennsylvania","PA",1,"Other RU Public",4,1640.559,3409.717
+2015,"Indiana University of Pennsylvania-Main Campus","PA",1,"Other RU Public",4,1644.485,2991.938
+2015,"University of Rhode Island","RI",1,"HRA Public",4,30600.43,457.2208
+2015,"Rhode Island College","RI",1,"Other RU Public",4,3497,622.0284
+2015,"Citadel Military College of South Carolina","SC",1,"Other RU Public",4,19076.93,7498.589
+2015,"University of South Carolina-Columbia","SC",1,"Non-AAU VHRA Public",4,9756.375,14395.47
+2015,"Lander University","SC",1,"Other RU Public",4,5122.494,7817.958
+2015,"College of Charleston","SC",1,"Other RU Public",4,10572.58,13716.23
+2015,"Francis Marion University","SC",1,"Other RU Public",4,1998.76,6162.216
+2015,"South Carolina State University","SC",1,"Other RU Public",4,6399.333,1724.853
+2015,"Coastal Carolina University","SC",1,"Other RU Public",4,4488.099,5982.14
+2015,"University of South Carolina-Upstate","SC",1,"Other RU Public",4,1689.24,6795.752
+2015,"Winthrop University","SC",1,"Other RU Public",4,5666.704,9681.195
+2015,"University of South Carolina-Aiken","SC",1,"Other RU Public",4,1583.581,7507.774
+2015,"Clemson University","SC",1,"HRA Public",4,32205.71,22726.58
+2015,"University of South Carolina-Beaufort","SC",1,"Other RU Public",3,2084.12,4981.6
+2015,"Dakota State University","SD",1,"Other RU Public",4,2389.522,451.7257
+2015,"University of South Dakota","SD",1,"HRA Public",4,7290.126,836.5889
+2015,"Oglala Lakota College","SD",1,"Other RU Public",4,1884.635,539.7019
+2015,"South Dakota State University","SD",1,"HRA Public",4,5364.374,872.6678
+2015,"South Dakota School of Mines and Technology","SD",1,"Other RU Public",4,4421.087,788.3082
+2015,"Black Hills State University","SD",1,"Other RU Public",4,2051.21,307.445
+2015,"Northern State University","SD",1,"Other RU Public",4,3191.137,327.3836
+2015,"The University of Tennessee at Chattanooga","TN",1,"Other RU Public",4,3979.082,11906.99
+2015,"Tennessee State University","TN",1,"Other RU Public",4,3501.057,2177.635
+2015,"The University of Tennessee","TN",1,"Non-AAU VHRA Public",4,10003.6,13366.15
+2015,"The University of Tennessee-Martin","TN",1,"Other RU Public",4,3743.54,8829.484
+2015,"Austin Peay State University","TN",1,"Other RU Public",4,2944.56,7023.321
+2015,"Tennessee Technological University","TN",1,"Other RU Public",4,5449.769,11771.19
+2015,"Middle Tennessee State University","TN",1,"Other RU Public",4,2774.048,8772.44
+2015,"East Tennessee State University","TN",1,"Other RU Public",4,2175.485,7466.282
+2015,"University of Memphis","TN",1,"HRA Public",4,4089.5,7593.573
+2015,"The University of Texas at Dallas","TX",1,"HRA Public",4,24242.79,8867.584
+2015,"Tarleton State University","TX",1,"Other RU Public",4,2339.94,3417.65
+2015,"Texas A & M University","TX",1,"AAU Public",4,14486.37,6220.148
+2015,"The University of Texas at Austin","TX",1,"AAU Public",4,12546.29,4573.079
+2015,"University of North Texas","TX",1,"HRA Public",4,4386.413,5747.181
+2015,"Texas Tech University","TX",1,"HRA Public",4,5592.853,4053.376
+2015,"The University of Texas at Tyler","TX",1,"Other RU Public",4,5339.037,3531.572
+2015,"University of Houston-Victoria","TX",1,"Other RU Public",4,2470.504,2893.192
+2015,"The University of Texas-Pan American","TX",1,"Other RU Public",4,1571.963,3128.587
+2015,"University of Houston","TX",1,"Non-AAU VHRA Public",4,8076.123,5733.772
+2015,"Sul Ross State University","TX",1,"Other RU Public",4,868.8591,3147.366
+2015,"Texas A & M International University","TX",1,"Other RU Public",4,846.6213,4112.354
+2015,"The University of Texas at El Paso","TX",1,"HRA Public",4,1610.168,4287.019
+2015,"Lamar University","TX",1,"Other RU Public",4,1243.223,4714.922
+2015,"University of Houston-Downtown","TX",1,"Other RU Public",4,1031.364,4725.365
+2015,"Texas A & M University-Corpus Christi","TX",1,"Other RU Public",4,556.2754,3643.855
+2015,"Texas A & M University-Commerce","TX",1,"Other RU Public",4,3996.459,5803
+2015,"Midwestern State University","TX",1,"Other RU Public",4,5378.917,2992.818
+2015,"Midland College","TX",1,"Other RU Public",3,4186.52,199.2843
+2015,"The University of Texas at San Antonio","TX",1,"HRA Public",4,2547.903,3851.459
+2015,"University of Houston-Clear Lake","TX",1,"Other RU Public",4,4329.907,5171.747
+2015,"Brazosport College","TX",1,"Other RU Public",3,1448.699,1855.88
+2015,"The University of Texas at Brownsville","TX",1,"Other RU Public",4,723.2897,3975.024
+2015,"Texas A & M University-Texarkana","TX",1,"Other RU Public",4,8337.637,1687.909
+2015,"Texas A & M University-Kingsville","TX",1,"Other RU Public",4,2165.49,4962.602
+2015,"Texas State University-San Marcos","TX",1,"Other RU Public",4,1196.778,7461.625
+2015,"Texas Southern University","TX",1,"Other RU Public",4,1716.373,3729.014
+2015,"Angelo State University","TX",1,"Other RU Public",4,7187.9,2936.172
+2015,"Stephen F Austin State University","TX",1,"Other RU Public",4,4676.17,4078.121
+2015,"Sam Houston State University","TX",1,"Other RU Public",4,2083.873,6139.833
+2015,"Texas Woman's University","TX",1,"Other RU Public",4,3751.912,5197.596
+2015,"The University of Texas of the Permian Basin","TX",1,"Other RU Public",4,10694.68,4124.468
+2015,"West Texas A & M University","TX",1,"Other RU Public",4,1517.498,4163.918
+2015,"Prairie View A & M University","TX",1,"Other RU Public",4,2992.534,4833.419
+2015,"South Texas College","TX",1,"Other RU Public",3,16.96348,687.3102
+2015,"The University of Texas at Arlington","TX",1,"HRA Public",4,5710.795,5337.969
+2015,"Dixie State College of Utah","UT",1,"Other RU Public",3,1421.533,3762.143
+2015,"University of Utah","UT",1,"Non-AAU VHRA Public",4,12722.04,2135.115
+2015,"Utah Valley University","UT",1,"Other RU Public",4,5695.654,1328.631
+2015,"Weber State University","UT",1,"Other RU Public",4,4163.179,102.101
+2015,"Southern Utah University","UT",1,"Other RU Public",4,9298.476,568.916
+2015,"Utah State University","UT",1,"HRA Public",4,12361.67,188.9488
+2015,"George Mason University","VA",1,"HRA Public",4,6622.33,3853.019
+2015,"Virginia Polytechnic Institute and State University","VA",1,"Non-AAU VHRA Public",4,10982.67,4905.351
+2015,"The University of Virginia's College at Wise","VA",1,"Other RU Public",3,7018.146,5861.91
+2015,"University of Virginia-Main Campus","VA",1,"AAU Public",4,29223.34,2988.703
+2015,"James Madison University","VA",1,"Other RU Public",4,6723.258,3666.936
+2015,"Radford University","VA",1,"Other RU Public",4,3820.558,2766.2
+2015,"College of William and Mary","VA",1,"HRA Public",4,45512.34,16660.79
+2015,"University of Mary Washington","VA",1,"Other RU Public",4,8942.596,4795.411
+2015,"Old Dominion University","VA",1,"HRA Public",4,4075.174,8436.229
+2015,"Virginia Military Institute","VA",1,"Other RU Public",3,49241.37,4903.75
+2015,"Virginia State University","VA",1,"Other RU Public",4,1210.975,2472.873
+2015,"Christopher Newport University","VA",1,"Other RU Public",4,5217.33,7271.179
+2015,"Norfolk State University","VA",1,"Other RU Public",4,2965.129,5908.046
+2015,"Virginia Commonwealth University","VA",1,"Non-AAU VHRA Public",4,7124.75,10370.01
+2015,"Longwood University","VA",1,"Other RU Public",4,5612.996,6536.697
+2015,"Vermont Technical College","VT",1,"Other RU Public",3,7908.338,2283.507
+2015,"Lyndon State College","VT",1,"Other RU Public",4,10799.49,1265.919
+2015,"Castleton State College","VT",1,"Other RU Public",4,6606.557,1218.214
+2015,"Johnson State College","VT",1,"Other RU Public",4,7673.412,1216.015
+2015,"University of Vermont","VT",1,"HRA Public",4,60578.5,2186.906
+2015,"University of Washington-Bothell Campus","WA",1,"Other RU Public",4,5761.908,8034.973
+2015,"Eastern Washington University","WA",1,"Other RU Public",4,5691.979,5216.599
+2015,"The Evergreen State College","WA",1,"Other RU Public",4,7419.397,4307.134
+2015,"Bellevue College","WA",1,"Other RU Public",3,606.625,2238.727
+2015,"Olympic College","WA",1,"Other RU Public",3,444.2655,2218.881
+2015,"Western Washington University","WA",1,"Other RU Public",4,8715.77,5030.033
+2015,"Washington State University","WA",1,"Non-AAU VHRA Public",4,8567.204,7351.289
+2015,"University of Washington-Tacoma Campus","WA",1,"Other RU Public",4,5979.342,7767.933
+2015,"Central Washington University","WA",1,"Other RU Public",4,5424.503,5438.896
+2015,"University of Washington-Seattle Campus","WA",1,"AAU Public",4,14053.5,7218.514
+2015,"Seattle Community College-South Campus","WA",1,"Other RU Public",3,1291.506,4023.778
+2015,"Peninsula College","WA",1,"Other RU Public",3,1690.578,2107.434
+2015,"Northwest Indian College","WA",1,"Other RU Public",3,190.76,902.5
+2015,"University of Wisconsin-Platteville","WI",1,"Other RU Public",4,1849.119,1357.893
+2015,"University of Wisconsin-Whitewater","WI",1,"Other RU Public",4,893.3242,1839.013
+2015,"University of Wisconsin-La Crosse","WI",1,"Other RU Public",4,2306.522,2031.191
+2015,"University of Wisconsin-Stevens Point","WI",1,"Other RU Public",4,447.0128,1728.141
+2015,"University of Wisconsin-Parkside","WI",1,"Other RU Public",4,358.2875,1933.121
+2015,"University of Wisconsin-Green Bay","WI",1,"Other RU Public",4,3291.59,1832.217
+2015,"University of Wisconsin-Madison","WI",1,"AAU Public",4,16898.81,2331.341
+2015,"University of Wisconsin-Milwaukee","WI",1,"HRA Public",4,2222.245,1797.742
+2015,"University of Wisconsin-Superior","WI",1,"Other RU Public",4,2960.233,1255.379
+2015,"University of Wisconsin-Stout","WI",1,"Other RU Public",4,1768.341,1279.465
+2015,"University of Wisconsin-River Falls","WI",1,"Other RU Public",4,943.9286,988.5952
+2015,"University of Wisconsin-Oshkosh","WI",1,"Other RU Public",4,527.2896,1976.513
+2015,"Madison Area Technical College","WI",1,"Other RU Public",4,402.5768,819.8975
+2015,"University of Wisconsin-Eau Claire","WI",1,"Other RU Public",4,2115.681,1680.331
+2015,"Concord University","WV",1,"Other RU Public",4,2239.141,3746.768
+2015,"West Virginia University Institute of Technology","WV",1,"Other RU Public",3,7093.963,3569.526
+2015,"Glenville State College","WV",1,"Other RU Public",3,4181.37,4149.012
+2015,"Bluefield State College","WV",1,"Other RU Public",3,684.7895,2952.129
+2015,"West Liberty State College","WV",1,"Other RU Public",4,3903.105,1852.926
+2015,"Fairmont State University","WV",1,"Other RU Public",4,1698.582,4500.217
+2015,"West Virginia University at Parkersburg","WV",1,"Other RU Public",3,234.8162,803.746
+2015,"West Virginia State University","WV",1,"Other RU Public",4,5517.567,2776.134
+2015,"Shepherd University","WV",1,"Other RU Public",4,5436.064,5090.129
+2015,"West Virginia University","WV",1,"HRA Public",4,10753.22,6297.072
+2015,"Marshall University","WV",1,"Other RU Public",4,4516.481,5171.701
+2015,"University of Wyoming","WY",1,"HRA Public",4,13723.28,11129.28
