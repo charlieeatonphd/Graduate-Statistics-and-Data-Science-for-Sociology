@@ -2,3 +2,8 @@
 .ipynb*
 */.ipynb*
 .DS_Stor*
+*.log
+*/*.log
+week4/higheredfinancialization.dta
+week9/nagilepredatorsdata20191116.csv
+coursedataprep
