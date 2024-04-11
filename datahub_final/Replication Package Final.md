@@ -4,7 +4,7 @@
 
 Due 5pm, Tuesday May 7th by submitting a link to the repository in CatCourses.
 
-This culminating assignment for the course is to publish a replication package at the Higher Ed DataHub. A model replication package is here: https://github.com/HigherEdData/Student-Debt-Cancellation-IS-Progressive
+This culminating assignment for the course is to publish a replication package at the Higher Ed DataHub. A model replication package is here: https://github.com/HigherEdData/The-For-Profit-Side-of-Public-U/tree/main
 
 20% of the replication package grade will be based on whether the code files replicate successfully when executed by the course TA and instructor. You will also receive 10% of your grade for the assignment for doing each of the following 8 things. The replication package should:
 1. Use the directory structure, file organization, and file naming conventions of the DataHub for your replication package. The conventions are explained here: https://github.com/HigherEdData
